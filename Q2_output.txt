@@ -1,0 +1,2 @@
+pi by points : 3.
+pi by Monte carlo method is : 3.1349318194322504
